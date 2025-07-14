@@ -38,14 +38,12 @@ Estou aprendendo programação, com foco em me tornar um FullStack(ainda estou m
 
 | [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
 | :---: | :---: |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielmaccari&show_icons=true&theme=react&count_private=true&bg_color=3A6653" /> | <img height="180" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaccari&layout=compact&langs_count=6&hide=cmake&theme=react&bg_color=3A6653" /> |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmaccari&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaccari&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  |
 
 
 
 <div align="center">
 
-  [<h4>Contador de Visitantes 👀</h4>](https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g)
-  <img src="https://profile-counter.glitch.me/gabrielmaccari/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
 
 </div>
 
