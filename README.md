@@ -1,21 +1,12 @@
-<h1 align="center">Olá 👋, Eu sou <a href=https://www.linkedin.com/in/gabriel-maccari-55b92331b/>@GabrielMaccari</a></h1>
-<h3 align="center">Em busca do FullStack!</h3>
+<h1 align="center">Hi 👋, I am <a href=https://www.linkedin.com/in/gabriel-maccari-55b92331b/>@GabrielMaccari</a></h1>
 
-## Sobre mim 👩🏻
-Estou aprendendo programação, com foco em me tornar um FullStack(ainda estou me descobrindo).
-- 📚 Cursando Análise e Desenvolvimento de Sistemas(ADS) No Centro Universitário Internacional(UNINTER)
-- 💼 Estou em busca de oportunidades de trabalho na área de desenvolvimento de software e tecnologia.
-- ⚡ Fun fact: Gamer🎮🕹️
-- 📫 Você pode me encontrar em:
-  
-
+- 📫 You can find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0FE688)](https://www.linkedin.com/in/gabrielmaccari/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&color=3A6653)](mailto:gabrielmaccari5@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=0FE688)](https://discord.com/channels/@bielzinmm1280/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0FE688)](https://www.instagram.com/gabrielmaccarii/)
 
 
-## Linguagens e Ferramentas
+
+
+## Languages and Tools
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -28,12 +19,6 @@ Estou aprendendo programação, com foco em me tornar um FullStack(ainda estou m
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-## Outras Habilidades
-- 🌐 Nível de inglês - Intermediario.
-- 📘 Ex-Concunseiro e Vestibulando: Aprovado na EsPCEx,ESA,APPMB,USP,IFSP(3x),UNOPAR,UNIFEOB,UFSCAR.
-- 🪖 Ex-Militar da Escola Preparatória de Cadetes do Exército(EsPCEx).
-
-#### OBS: Nem tudo que aparece nestes gráficos refletem em minhas habilidades, são apenas métricas de linguagens que mais usei no GitHub.
 
 | [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
 | :---: | :---: |
