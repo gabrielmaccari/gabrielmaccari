@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I am <a href=https://www.linkedin.com/in/gabriel-maccari-55b92331b/>@GabrielMaccari</a></h1>
 
 - 📫 You can find me:
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0FE688)](https://www.linkedin.com/in/gabrielmaccari/)
 
 
