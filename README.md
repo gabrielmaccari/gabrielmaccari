@@ -1,35 +1,70 @@
-<h1 align="center">Hi 👋, I am <a href=https://www.linkedin.com/in/gabriel-maccari-55b92331b/>@GabrielMaccari</a></h1>
+<!-- ░▒▓ NEON PROFILE // GABRIEL MACCARI ▓▒░ -->
 
-- 📫 You can find me:
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0FE688)](https://www.linkedin.com/in/gabrielmaccari/)
-
-
-
-
-## Languages and Tools
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D0221,50:FF00A0,100:00F0FF&text=GABRIEL%20MACCARI&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=//%20SOFTWARE%20DEVELOPER%20::%20ONLINE&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/gabrielmaccari">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=620&lines=%3E+booting+profile.exe...;%3E+hello%2C+world.+I+am+%40GabrielMaccari;%3E+building+things+in+Python%2C+TypeScript+%26+React;%3E+status%3A+online+%E2%96%88" alt="typing animation" />
+  </a>
+</p>
 
-| [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
-| :---: | :---: |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmaccari&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaccari&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  |
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0D0221" alt="status" />
+  <img src="https://img.shields.io/badge/MODE-BUILDING-FF00A0?style=for-the-badge&labelColor=0D0221" alt="mode" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20ENERGY%20DRINK-CHARGING...-FCEE0A?style=for-the-badge&labelColor=0D0221" alt="energy drink" />
+</p>
 
+---
 
+## `> whoami`
 
-<div align="center">
+```ts
+const gabriel = {
+  handle: "@GabrielMaccari",
+  role: "Software Developer",
+  stack: ["Python", "TypeScript", "React", "SAP ABAP", "AWS", "Git"],
+  status: "online",
+  mission: "turn energy drinks into clean code",
+};
+```
 
+---
 
-</div>
+## `> ls ./skills`
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,react,aws,git&theme=dark" alt="skills" />
+  <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&labelColor=0D0221" alt="SAP ABAP" />
+</p>
 
+---
+
+## `> cat ./stats`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielmaccari&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00A0&text_color=FFFFFF" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaccari&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=FFFFFF" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielmaccari&theme=synthwave&hide_border=true&background=0D0221&ring=FF00A0&fire=FCEE0A&currStreakLabel=00F0FF" alt="GitHub streak" />
+</p>
+
+---
+
+## `> connect --uplink`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-maccari-55b92331b/">
+    <img src="https://img.shields.io/badge/LinkedIn-ESTABLISH%20CONNECTION-00F0FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/gabrielmaccari">
+    <img src="https://img.shields.io/badge/GitHub-FOLLOW-FF00A0?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F0FF,50:FF00A0,100:0D0221&section=footer" alt="footer" />
+</p>
